@@ -1,0 +1,63 @@
+@font-face{
+	font-family:"FoundersGrotTest-BoldItalic";
+	src: url("FoundersGrotTest-BoldItalic.woff") format("woff");
+}
+
+body{
+	background-color: #D1EC4B;
+	font-family:FoundersGrotTest-BoldItalic;
+	color:white;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+
+.page{
+position:relative;
+width:100%;
+padding:0 0 0 0;
+margin:0 0 0 0;
+}
+
+
+.item{
+	font-size: 60pt;
+}
+.color{
+	color:#3636FF;
+}
+.menu{
+	position: absolute;
+	width: 50%;
+	float:left;
+	padding-left:30px;
+}
+
+.content{
+	position: absolute;
+	width: 50%;
+	float: right;
+	right:0px;
+
+}
+
+.name{
+	padding-top:10px; 
+	font-size: 30pt;
+	color:#3636FF;
+}
+.info{
+	position: absolute;
+	padding-top:165px;
+
+}
+
+a{
+	font-family:FoundersGrotTest-BoldItalic;
+	color:white;
+	font-size: 80pt;
+	text-decoration: none;
+
+}
+
+
+
