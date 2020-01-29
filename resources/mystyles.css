@@ -3,8 +3,14 @@
 	src: url("FoundersGrotTest-BoldItalic.woff") format("woff");
 }
 
+@font-face{
+	font-family:"FoundersGrotTest-Light";
+	src: url("FoundersGrotTest-Light.woff") format("woff");
+}
+
+
 body{
-	background-color: #D1EC4B;
+	background-color:#D1EC4B;
 	font-family:FoundersGrotTest-BoldItalic;
 	color:white;
 	padding:0 0 0 0;
@@ -37,6 +43,7 @@ margin:0 0 0 0;
 	width: 50%;
 	float: right;
 	right:0px;
+	font:FoundersGrotTest-Light;
 
 }
 
@@ -47,10 +54,27 @@ margin:0 0 0 0;
 }
 .info{
 	position: absolute;
-	padding-top:165px;
+	padding-top:250px;
+	font-family:FoundersGrotTest-Light;
+	font-size:15pt;
+	width:45%;
 
 }
 
+.link2{
+	font-size:15pt;
+	font-family:FoundersGrotTest-Light;
+}
+
+
+p{
+	font-size:15pt;
+}
+
+.pages{
+	font-size:15pt;
+	font-family:FoundersGrotTest-Light;
+}
 a{
 	font-family:FoundersGrotTest-BoldItalic;
 	color:white;
