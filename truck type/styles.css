@@ -3,7 +3,7 @@
 html{
 	font-size:2vw;
 }
-
+	
 
 body{
 	background-color:white;
@@ -19,8 +19,8 @@ body{
 	padding:0;
 	border:black solid 3px;
 	box-sizing:border-box;
-	transform:skewY(5deg);
-	transform:skewX(deg);
+/*	transform:skewY(5deg);
+	transform:skewZ(deg);*/
 
 }
 
