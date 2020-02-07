@@ -1,0 +1,88 @@
+
+
+html{
+	font-size:2vw;
+}
+
+
+body{
+	background-color:white;
+}
+
+.truck{
+	position:relative;
+	width:500px;
+	height:350px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:200px;
+	padding:0;
+	border:black solid 3px;
+	box-sizing:border-box;
+	transform:skewY(5deg);
+	transform:skewX(deg);
+
+}
+
+.header{
+	position:absolute;
+	font-family: aktiv-grotesk,sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	color:navy;
+	font-size: 20px;
+	left:30px;
+
+}
+
+.main1{
+	position:absolute;
+	width:350px;
+	height:200px;
+	background-color:#000B55;
+	color:white;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	font-size:45pt;
+	border-radius: 300px / 250px;
+	border:solid white 2px;
+	z-index: 100;
+	left:4px;
+	top:4px;
+}
+
+.main2{
+	position:absolute;
+	width:362px;
+	height:212px;
+	background-color:#000B55;
+	color:white;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	font-size:50pt;
+	border-radius: 300px / 240px;
+	left:69px;
+	top:40px;
+}
+
+p{
+	align-content: center;
+}
+.power{
+	left:5px;
+	margin: 0;
+	padding-top:15px;
+	text-align: center;
+}
+
+.sub{
+	position:absolute;
+	width:300px;
+	height:45px;
+    border-radius: 100px / 65px;
+	background-color:#000B55;
+	margin-top:250px;
+	margin-left:100px;
+}
