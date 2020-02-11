@@ -1,0 +1,102 @@
+body,html{
+	margin:0;
+	padding:0;
+	font-size:15px;
+	background-color: black;
+}
+
+.page10{
+position: relative;
+}
+
+.type10{
+	font-family: Helvetica;
+	font-size:30px;
+	padding:3rem;
+	text-align: center;
+	color:white;
+}
+.circle10-1{
+	width:4rem;
+	height:4rem;
+	border-radius: 50%;
+	position: relative;
+	border: 1px white solid;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: transparent;
+	text-align: center;
+	font-family: Helvetica;
+	font-size:1.5rem;
+	text-align: center;
+	margin-top:2rem;
+	color:white;
+	vertical-align: middle;
+	line-height: 4rem; 
+}
+
+.circle10-2{
+	width:2.5rem;
+	height:2.5rem;
+	border-radius: 50%;
+	background-color: transparent;
+	border: .5px white solid;
+	position: relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	font-family: Helvetica;
+	font-size:.7rem;
+	margin-top:2rem;
+	color:white;
+	vertical-align: middle;
+	line-height: 2.5rem; 
+}
+
+
+.circle11{
+	width:2rem;
+	height:2rem;
+	background-color: white;
+	margin-top:12rem;
+	margin-left:auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.page11{
+	position: relative;
+	padding-top:12rem;
+}
+a{
+	font-family: Helvetica;
+	font-size:.7rem;
+	text-decoration: none;	
+	color:white;
+}
+
+.type{
+	font-family: Helvetica;
+	font-size:2rem;
+	color:white;
+	text-align: center;
+}
+
+.towards{
+	writing-mode: vertical-rl;
+  	text-orientation: sideways;
+  	padding-left:50vw;
+  	text-align: center;
+}
+
+
+.insignificant{
+	writing-mode: vertical-rl;
+  	text-orientation: sideways;
+  	position: absolute;
+  	right:50vw;
+}
+
+
+
+

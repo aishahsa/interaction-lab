@@ -1,0 +1,108 @@
+html,body{
+	padding:0;
+	margin:0;
+	font-size:15px;
+	background-color: black;
+}
+
+@keyframes toFade {
+  0%  {color: white;}
+  16% {color: #E2E2E2;}
+  32% {color: #CCCCCC;}
+  48% {color: #BBBBBB;}
+  64% {color: #999999;}
+  80% {color: #666666;}
+  90% {color: #444444;}
+  100%{color: #111111;}
+}
+.pageOS6{
+	width:100%;
+	height:100vh;
+	margin:0;
+	padding-top:4rem;
+	position:relative;
+}
+
+.letter{
+	color:white;
+	text-align: center;
+	font-size:1.5rem;
+
+}
+
+.box6{
+	margin-top: 4rem;
+}
+.pageOS7{
+	width:100%;
+	height:100vh;
+	margin:0;
+	padding:0;
+	position:relative;
+	background-color: black;
+}
+
+
+.box7{
+	position: absolute;
+	width:100%;
+	height:110px;
+	text-align: center;
+	padding-top: 400px;
+}
+
+.text7{
+	color:white;
+	display: flex; /*inline block or inline-flex, inline flex*/
+	flex-direction:column;
+	flex-wrap:nowrap;
+	justify-content: space-around;
+	padding-top:35vh;
+}
+
+.text7-1{
+	font-family: Helvetica;
+	font-size:1rem;
+	color:white;
+	align-content: center;
+	text-align: center;
+}
+
+.text7-2{
+	font-family: Helvetica;
+	font-size:1rem;
+	color:white;
+	align-content: center;
+	text-align: center;
+}
+
+.link{
+	font-family: Helvetica;
+	font-size:1rem;
+	color:white;
+	align-content: center;
+	text-align: center;
+}
+.punctuation{
+	font-family: Helvetica;
+	font-size:40px;
+	color:white;
+	display:inline-block;
+
+}
+
+.fade{
+	color:black;
+	animation-name: toFade;
+	animation-duration: 2s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate; 
+}
+
+a{
+	color:white;
+	text-align: center;
+	font-size:1.5rem;
+	text-decoration: none;	
+}
