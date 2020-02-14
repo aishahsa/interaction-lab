@@ -1,0 +1,125 @@
+@font-face{
+	font-family:"MaelstromTest-Bold";
+	src: url("MaelstromTest-Bold.woff") format("woff");
+}
+
+body,html{
+	margin:0;
+	padding:0;
+	font-size:15px;
+	background-color: #3636FF;
+}
+
+
+.page{
+	display: flex; /*inline block or inline-flex, inline flex*/
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+}
+
+.Qone{
+	width:25%;
+	height:300vh;
+	background-color: transparent;
+	border:white .1rem solid;
+	position: relative;
+}
+
+.Qtwo{
+	width:25%;
+	height:300vh;
+	background-color: transparent;
+	border:white .1rem solid;
+	position: relative;
+}
+
+.Qthree{
+	width:25%;
+	height:300vh;
+	background-color: transparent;
+	border:white .1rem solid;
+	position: relative;
+}
+
+
+.Qfour{
+	width:25%;
+	height:300vh;
+	background-color: transparent;
+	border:white .1rem solid;
+	position: relative;
+}
+
+.block{
+	width: 20rem;
+	height:20rem;
+	background-color: black;
+	margin-top:27vw;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.one{
+	background-color: #F2E68D;
+}
+
+.two{
+	background-color: #FFD800;
+}
+
+.three{
+	background-color: #FFB100;
+}
+
+.four{
+	background-color: #FD6A00;
+}
+
+.inner1{
+	width:15rem;
+	height:15rem;
+	background-color: green;
+	margin: 2.5rem;
+	position: absolute;
+}
+
+.inner2{
+	width:10rem;
+	height:10rem;
+	background-color: pink;
+	border-radius:100%;	
+	margin: 2.5rem;
+	position: absolute;
+	overflow: scroll;
+
+}
+
+.inner3{
+	width:15rem;
+	height:5rem;
+	margin-top: 2.5rem;
+	margin-bottom: 2.5rem;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+/*	position: absolute;*/
+/*	overflow: scroll;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
