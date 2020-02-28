@@ -1,0 +1,173 @@
+body,html{
+	margin:0;
+	padding:0;
+	font-size:2vw;
+	background-color: black;
+}
+
+
+.page{
+	width: 100%;
+	height:100vh;
+	position: relative;
+	align-content: center;
+}
+
+.hours{
+	left:10rem;
+	background-color: pink;
+	height:4rem;
+}
+
+.day{
+	color:#3636FF;
+	font-family: helvetica;
+	font-style:italic;
+	font-size:2rem;	
+	writing-mode: vertical-rl;
+	text-orientation: sideways;
+}
+
+.am{
+
+	color:#3636FF;
+	font-family: helvetica;
+	font-style:italic;
+	font-size:2rem;	
+}
+.hour{
+	position: absolute;
+	color:#3636FF;
+	font-family: helvetica;
+	font-style:italic;
+	font-size: 10rem;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+
+.texts{
+	padding-top:300px;
+	padding-left:20rem;
+}
+
+.text{
+	position: absolute;
+	color:#3636FF;
+	font-family: helvetica;
+	font-style:italic;
+	font-size: 10rem;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+
+#H1{
+	left:10rem;
+}
+#H2{
+	left:10.6rem;
+}
+#H3{
+	left:11.2rem;
+}
+#H4{
+	left:11.8rem;
+}
+#H5{
+	left:12.4rem;
+}
+#H6{
+	left:13rem;
+}
+#H7{
+	left:13.6rem;
+}
+#H8{
+	left:14.2rem;
+}
+#H9{
+	left:14.8rem;
+}
+#H10{
+	left:15.4rem;
+}
+#H11{
+	left:16rem;
+}
+#H12{
+	left:16.6rem;
+}
+
+#T1{
+	left:0rem;
+}
+#T2{
+	left:.75rem;
+}
+#T3{
+	left:1.5rem;
+}
+#T4{
+	left:2.25rem;
+}
+#T5{
+	left:3rem;
+}
+#T6{
+	left:3.75rem;
+}
+#T7{
+	left:4.5rem;
+}
+#T8{
+	left:5.25rem;
+}
+#T9{
+	left:6rem;
+}
+#T10{
+	left:6.75rem;
+}
+#T11{
+	left:7.5rem;
+}
+#T12{
+	left:8.25rem;
+}
+
+
+
+.left{
+	width:4rem;
+	height:11rem;
+	margin-left: .9rem;
+	margin-top: 2rem;
+	background-color: pink;
+	position: relative;
+}
+
+.dia{
+	position: relative;
+	width:30rem;
+	height:15rem;
+	display: inline-block;
+	margin-top:-12rem;
+	background-color: yellow;
+/*	padding-left: calc((100% - 16rem)/2);
+*/	text-align: center;
+}
+
+.content{
+	width:30rem;
+	height:10rem;
+	background-color: grey;
+	margin-left: 10rem;	
+}
+
+.today{
+	width:30rem;
+	height:4rem;
+	margin-left:10rem;
+	background-color: blue;
+}
+
+

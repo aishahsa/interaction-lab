@@ -1,0 +1,768 @@
+body,html{
+	margin:0;
+	padding:0;
+	font-size:2vw;
+	background-color: black;
+}
+
+.page{
+	margin-left:auto;
+	margin-right: auto;
+	top:10rem;
+	padding:0;
+	position: relative;
+	width:10rem;
+	height:10rem;
+	border-radius: 50%;
+/*	border:white 2px solid;*/
+
+}
+
+@keyframes f1{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
+
+@keyframes f2{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+
+	}
+}
+
+@keyframes f3{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+
+	}
+}
+
+@keyframes f4{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+
+	}
+}
+
+@keyframes f5{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
+
+
+@keyframes rot1{
+	0%{
+		transform:rotate(180deg);
+	}
+	100%{
+		transform:rotate(360deg);
+	}
+}
+
+#f1p1{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	animation: f1 3s ease-in-out;
+	animation-iteration-count: 1;
+	opacity: 0;
+
+}
+
+#f1p2{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(45deg);
+	animation: f1 3s ease-in-out;
+	animation-iteration-count: 1;
+	opacity: 0;
+}
+
+#f1p3{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(90deg);
+	animation: f1 3s ease-in-out;
+	animation-iteration-count: 1;
+	opacity: 0;
+}
+
+#f1p4{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(135deg);
+	animation: f1 3s ease-in-out;
+	animation-iteration-count: 1;
+	opacity: 0;
+
+}
+
+
+#f2p1{
+	position: absolute;
+	border:white.06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	animation: f2 3s ease-in-out;
+	animation-delay: 3s;
+	animation-iteration-count: 1;
+	opacity: 0;
+
+}
+
+#f2p2{
+	position: absolute;
+	border:white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(45deg);
+	animation: f2 3s ease-in-out;
+	animation-delay: 3s;
+	animation-iteration-count: 1;
+	opacity: 0;
+}
+
+#f2p3{
+	position: absolute;
+	border:white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(90deg);	
+	animation: f2 3s ease-in-out;
+	animation-delay: 3s;
+	animation-iteration-count: 1;
+	opacity: 0;
+
+}
+
+#f2p4{
+	position: absolute;
+	border:white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(135deg);
+	animation: f2 3s ease-in-out;
+	animation-delay:3s;
+	animation-iteration-count: 1;
+	opacity: 0;
+}
+
+#f3p1{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	animation: f2 3s ease-in-out;
+	animation-delay: 6s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f3p2{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(45deg);
+	animation: f3 3s ease-in-out;
+	animation-delay: 6s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f3p3{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(90deg);
+	animation: f3 3s ease-in-out;
+	animation-delay: 6s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f3p4{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(135deg);
+	animation: f3 3s ease-in-out;
+	animation-delay: 6s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f4p1{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	animation: f4 3s ease-in-out;
+	animation-delay: 9s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f4p2{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(45deg);
+	animation: f4 3s ease-in-out;
+	animation-delay: 9s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f4p3{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(90deg);
+	animation: f4 3s ease-in-out;
+	animation-delay: 9s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f4p4{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(135deg);
+	animation: f4 3s ease-in-out;
+	animation-delay: 9s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f5p1{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	animation: f5 3s ease-in-out;
+	animation-delay: 12s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f5p2{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(45deg);
+	animation: f5 3s ease-in-out;
+	animation-delay: 12s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f5p3{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(90deg);
+	animation: f5 3s ease-in-out;
+	animation-delay: 12s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+#f5p4{
+	position: absolute;
+	border: white .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(135deg);
+	animation: f5 3s ease-in-out;
+	animation-delay: 12s;
+	animation-iteration-count: 1;
+	opacity: 0
+}
+
+
+/*///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////*/
+
+
+@media screen and (max-width: 1400px){
+
+body,html{
+	margin:0;
+	padding:0;
+	font-size:2vw;
+	background-color: #D5C2A5;
+}
+
+.page{
+	margin-left:auto;
+	margin-right: auto;
+	top:10rem;
+	padding:0;
+	position: relative;
+	width:10rem;
+	height:10rem;
+	border-radius: 50%;
+/*	border:white 2px solid;*/
+
+}
+
+#f1p1{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f1p2{
+	position: absolute;
+	border: black .06rem solid;
+
+}
+
+#f1p3{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f1p4{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+
+#f2p1{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f2p2{
+	position: absolute;
+	border:black .06rem solid;
+}
+
+#f2p3{
+	position: absolute;
+	border:black .06rem solid;
+}
+
+#f2p4{
+	position: absolute;
+	border:black .06rem solid;
+}
+
+#f3p1{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f3p2{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f3p3{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f3p4{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f4p1{
+	position: absolute;
+	border: black .06rem solid;
+
+}
+
+#f4p2{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f4p3{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f4p4{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f5p1{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f5p2{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f5p3{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+#f5p4{
+	position: absolute;
+	border: black .06rem solid;
+}
+
+}/*
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////*/
+
+@media (max-width: 800px){
+
+body,html{
+	margin:0;
+	padding:0;
+	font-size:2vw;
+	background-color: white;
+}
+
+.page{
+	margin-left:auto;
+	margin-right: auto;
+	top:10rem;
+	padding:0;
+	position: relative;
+	width:10rem;
+	height:10rem;
+	border-radius: 50%;
+/*	border:white 2px solid;*/
+
+}
+
+#f1p1{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+}
+
+#f1p2{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(45deg);
+}
+
+#f1p3{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(90deg);
+}
+
+#f1p4{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:5rem;
+	height:5rem;
+	left:2.5rem;
+	top:2.5rem;
+	transform: rotate(135deg);
+}
+
+
+#f2p1{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+}
+
+#f2p2{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(45deg);
+}
+
+#f2p3{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(90deg);
+}
+
+#f2p4{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:6rem;
+	height:6rem;
+	left:2rem;
+	top:2rem;
+	transform: rotate(135deg);
+}
+
+#f3p1{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+}
+
+#f3p2{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(45deg);
+}
+
+#f3p3{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(90deg);
+}
+
+#f3p4{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:7rem;
+	height:7rem;
+	left:1.5rem;
+	top:1.5rem;
+	transform: rotate(135deg);
+}
+
+#f4p1{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+}
+
+#f4p2{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(45deg);
+}
+
+#f4p3{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(90deg);
+}
+
+#f4p4{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:8rem;
+	height:8rem;
+	left:1rem;
+	top:1rem;
+	transform: rotate(135deg);
+}
+
+#f5p1{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+}
+
+#f5p2{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(45deg);
+}
+
+#f5p3{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(90deg);
+}
+
+#f5p4{
+	position: absolute;
+	border:#D5C2A5 .06rem solid;
+	border-radius: .1rem 9rem .1rem 9rem;
+	width:9rem;
+	height:9rem;
+	left:.5rem;
+	top:.5rem;
+	transform: rotate(135deg);
+}
+
+}
+
+
+
+
+
