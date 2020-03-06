@@ -63,15 +63,6 @@ p{
     padding-top: 16rem;
 }
 
-.words2{
-	position: absolute;
-	font-family: HelveticaNeue;
-	font-style:italic;
-	font-weight: 700;
-	font-size: 9.5rem;
-	-webkit-text-stroke-width: 2px;
-	-webkit-text-stroke-color: white;
-}
 
 .dia{
 	position: relative;
@@ -212,7 +203,6 @@ p{
 	font-size: 9.5rem;
 	-webkit-text-stroke-width: 2px;
 	-webkit-text-stroke-color: white;
-	padding-top:1rem;
 
 }
 
