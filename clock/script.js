@@ -7,7 +7,7 @@ function timeInterpret(){
   var myDate = new Date;
 
   hour = myDate.getHours();
-  min = (myDate.getMinutes);
+  min = 60/*(myDate.getMinutes)*/;
 
   if(hour == 0){
     $('.words').html('sleep')
@@ -88,11 +88,47 @@ function timeInterpret(){
     $('.words').append('sleep')
   }
 
-
+  if(minutes => 5){
+    $('#T12').addClass("blue")
+  }
+  if(minutes => 10){
+    $('#T11').addClass("blue")
+  }
+  if(minutes => 15){
+    $('#T10').addClass("blue")
+  }
+  if(minutes => 20){
+    $('#T9').addClass("blue")
+  }
+  if(minutes => 25){
+    $('#T8').addClass("blue")
+  }
+  if(minutes => 30){
+    $('#T7').addClass("blue")
+  }
+  if(minutes => 35){
+    $('#T6').addClass("blue")
+  }
+  if(minutes => 40){
+    $('#T5').addClass("blue")
+  }
+  if(minutes => 45){
+    $('#T4').addClass("blue")
+  }
+  if(minutes => 50){
+    $('#T3').addClass("blue")
+  }
+  if(minutes => 55){
+    $('#T2').addClass("blue")
+  }
+  if(minutes => 60){
+    $('#T1').addClass("blue")
+  }
 
 }
 
 timeInterpret()
 console.log(hour)
-console.log("woo")
+
+
 setInterval(timeInterpret, 10000)
