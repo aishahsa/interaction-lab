@@ -6,9 +6,9 @@ var dayOfWeek
 function HORA(){
   var myDate = new Date;
 
-  hour = myDate.getHours();
-  min = myDate.getMinutes();
-  day = myDate.getDay();
+  hour = /*myDate.getHours()*/22;
+  min = /*myDate.getMinutes()*/52;
+  day = /*myDate.getDay()*/0;
 
 
   if(min > 4.9){
