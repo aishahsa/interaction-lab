@@ -8,41 +8,42 @@ body,html{
 	font-family:"HelveticaNeue";
 	src: url("HelveticaNeue.ttc") format("ttc");
 }
-p{
-	color:white;
+.number{
+	position: absolute;
+	font-family: HelveticaNeue;
+	font-style:italic;
+	font-weight:700;
+	font-size:5rem;
+	/* writing-mode: vertical-rl;
+	text-orientation: sideways; */
+	text-align: center;
+	padding-left:1.5rem;
+	padding-top:3rem;
+	color:#3636FF;
+	letter-spacing:.3rem;
 }
+
 .day{
 	position: absolute;
 	font-family: HelveticaNeue;
 	font-style:italic;
 	font-weight: 700;
-	font-size:4rem;
-	writing-mode: vertical-rl;
-	text-orientation: sideways;
+	font-size:5rem;
+	/* writing-mode: vertical-rl;
+	text-orientation: sideways; */
 	text-align: center;
-	padding-left:2rem;
-	padding-top:15rem;
+	padding-left:1.5rem;
+	padding-top:9rem;
 	color:#3636FF;
+	letter-spacing:.3rem;
 }
-.am{
-	font-size:2rem;
-	position: absolute;
-	color:#3636FF;
-	font-family: HelveticaNeue;
-	font-style:italic;
-	font-weight: 700;
-	padding-top: 7.9rem;
-	z-index: 1000;
-}
-.hour{
-	position: absolute;
-	font-family: HelveticaNeue;
-	font-style:italic;
-	font-weight: 700;
-	font-size: 9.5rem;
-	-webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: white;
-  padding-right: 2rem;
+
+.content{
+	width:30rem;
+	height:10rem;
+	margin-left:1rem;
+	margin-top:-3rem;
+	letter-spacing:.3rem;
 }
 
 .words{
@@ -50,21 +51,11 @@ p{
 	font-family: HelveticaNeue;
 	font-style:italic;
 	font-weight: 700;
-	font-size: 9.5rem;
+	font-size: 11rem;
 	-webkit-text-stroke-width: 2px;
 	-webkit-text-stroke-color: white;
-  padding-right: 2rem;
-  padding-top: 16rem;
-}
-
-
-.dia{
-	position: relative;
-	width:30rem;
-	height:15rem;
-	display: inline-block;
-	margin-left:8rem;
-
+  padding-left:-.5rem;
+  padding-top: 13rem;
 }
 
 .blue{
@@ -99,22 +90,15 @@ p{
 	color:#FF3636;
 }
 
-
-.content{
-	width:30rem;
-	height:10rem;
-	margin-left:7.5rem;
-	margin-top:-9rem;
-}
-
 .today{
-	margin-top:18rem;
-	margin-left:9rem;
+	margin-top:17rem;
+	margin-left:1.5rem;
 	position: absolute;
 	font-family: HelveticaNeue;
 	font-style:italic;
 	font-weight: 700;
 	font-size: 2rem;
+	/* letter-spacing:.3rem; */
 }
 
 #T1{
