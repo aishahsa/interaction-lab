@@ -1,0 +1,1222 @@
+{
+  "title": "images",
+  "source": "images",
+  "images": [
+
+
+    {
+      "name": "1",
+      "image": "images/1_ulfmejergrenar.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "2",
+      "image": "imaegs/1%25.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "3",
+      "image": "imaegs/1qbmvkpo4_1280.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "4",
+      "image": "images/01rnxp7qo2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "5",
+      "image": "images/1xqbzx5o1_400.png",
+      "class": "white;"
+    },
+
+
+    {
+      "name": "6",
+      "image": "images/02-best-artist-designed-swimming-pools-around-the-world.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "7",
+      "image": "images/2deq0k11rwe56eo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "8",
+      "image": "images/2fnLeM1qd7huio1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "9",
+      "image": "images/3b9b3c6a323f_37a2c0b1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "10",
+      "image": "images/3ed53a0689f61_084e6786_1280.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "11",
+      "image": "images/4UkZ01rnxp7qo1_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "12",
+      "image": "images/5%2520%25C2%25A9.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "13",
+      "image": "images/06-best-artist-designed.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "14",
+      "image": "images/06ae2e56a14_7cdb5614_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "15",
+      "image": "images/7b77796d77_1ab0ba5f_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "16",
+      "image": "images/7zsec1qiaenuo2_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "17",
+      "image": "images/8a2658f697_fd4b6cfc_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "18",
+      "image": "images/8dOq1qk10vpo7_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "19",
+      "image": "images/9-stoned-photo-(.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "20",
+      "image": "images/9f1_07283544_1280.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "21",
+      "image": "images/9Nc1uauof6o1_400.png",
+      "class": "green;"
+    },
+    {
+      "name": "22",
+      "image": "images/9zu1qkj2lmo1_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "23",
+      "image": "images/11ABhl1v1plcdo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "24",
+      "image": "images/39a68180402581.5ce021083d092.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "25",
+      "image": "images/39f20f80402581.5ce3f752d3ac3.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "26",
+      "image": "images/44c67a5_23c15b0a_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "27",
+      "image": "images/45e27f80402581.5ce021083d976.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "28",
+      "image": "images/61vk5gtlo1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "29",
+      "image": "images/88a7e574048445.5c1f45d4ccfaa.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "30",
+      "image": "images/440tvlZ1qf8em3o4_r1_640.png",
+      "class": "green pink;"
+    },
+
+    {
+      "name": "31",
+      "image": "images/9450b_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "32",
+      "image": "images/89672_e05cad0e_400.png",
+      "class": "black;"
+    },
+
+    {
+      "name": "33",
+      "image": "images/89672_e05cad0e_401.jpg",
+      "class": "blue;"
+    },
+
+    {
+      "name": "34",
+      "image": "images/AUXn1u4ekk7o1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "35",
+      "image": "images/b9f86d80402581.5ce021083c0bf.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "36",
+      "image": "images/b145fb64765225.5add98ab4a323.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "37",
+      "image": "images/ba88f3598d_4b6a4fdc_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "38",
+      "image": "images/bd6eb50fa3a_5484022c_500.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "39",
+      "image": "images/bLN1sgrduho1_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "40",
+      "image": "images/BW1v0z1ebo2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "41",
+      "image": "images/c2e1105f_d4daae2a_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "42",
+      "image": "images/c301uvwrxxo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "43",
+      "image": "images/cfa5300_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "44",
+      "image": "images/d29d9c80402581.5ce26430d0544.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "45",
+      "image": "images/DB380B14-B7E9-4D97-B0E4-2A1B3555CA0D.png",
+      "class": "black;"
+    },
+
+    {
+      "name": "46",
+      "image": "images/dbc86c64765225.5add98ab4ac3f.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "47",
+      "image": "images/Dec-21-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "48",
+      "image": "images/Dec-27-2019.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "49",
+      "image": "images/Dec-31-2017.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "50",
+      "image": "images/dXqrG1wbonm6o1_400.png",
+      "class": "white;"
+    },
+
+
+    {
+      "name": "51",
+      "image": "images/ece98264765225.5add98ab4a7f9.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "52",
+      "image": "images/f71cb174048445.5c1f45d54f352.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "53",
+      "image": "images/FRd41r0r4cdo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "54",
+      "image": "images/hkEiOO1s7qfzno1_400.png",
+      "class": "red;"
+    },
+
+    {
+      "name": "55",
+      "image": "images/HXL1v8roxvo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "56",
+      "image": "images/IMG_4186-30-07-19-07-55.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "57",
+      "image": "images/IMG_4188-30-07-19-07-55.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "58",
+      "image": "images/Jan-2-2017.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "59",
+      "image": "images/Jan-16-2018.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "60",
+      "image": "images/Jan-20-2020.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "61",
+      "image": "images/Jul-9-2019.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "62",
+      "image": "images/Jul-27-2019.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "63",
+      "image": "images/Jul-28-2017.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "64",
+      "image": "images/Jun-16-2018.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "65",
+      "image": "images/Jun-23-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "66",
+      "image": "images/KFK1rs6cz4o1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "67",
+      "image": "images/kZ01rnxp7qo5_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "68",
+      "image": "images/L1qcxyrro1_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "69",
+      "image": "images/marton-perlaki-11 copy.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "70",
+      "image": "images/marton-perlaki-11.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "71",
+      "image": "images/mfdwkr3jG1r4iw2ko1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "72",
+      "image": "images/nGg11u1qnwto1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "73",
+      "image": "images/NM11wravvso1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "74",
+      "image": "images/Oct-12-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "75",
+      "image": "images/Oct-13-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "76",
+      "image": "images/ojybwTj1trdvneo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "77",
+      "image": "images/OQe1sj80hno1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "78",
+      "image": "images/oZB1wwx4aso1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "79",
+      "image": "images/q44UkZ01rnxp7qo3_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "80",
+      "image": "images/qrjec2yK1r4lpbbo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "81",
+      "image": "images/qxE1rwwp0eo1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "82",
+      "image": "images/R1w6g6mlo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "83",
+      "image": "images/reminR1r7ny87o1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "84",
+      "image": "images/rUv31qgiw5to1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "85",
+      "image": "images/s7zsec1qiaenuo1_1280.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "86",
+      "image": "images/s891vxv1qztxibo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "87",
+      "image": "images/Sep-26-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "88",
+      "image": "images/sf0xh9o1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "89",
+      "image": "images/tHtb1r630xzo1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "90",
+      "image": "images/toqOv7o1rpoad5o1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "91",
+      "image": "images/tvlZ1qf8em3o3_r1_640.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "92",
+      "image": "images/U1svp654o7_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "93",
+      "image": "images/va6WXd1qzt1t3o2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "94",
+      "image": "images/virgin-islands-201405-2_1000-watermarked.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "95",
+      "image": "images/W1qzxhoso1_640.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "96",
+      "image": "images/WN1qaf9imo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "97",
+      "image": "images/X1vnoon8o1_400.png",
+      "class": "green pink;"
+    },
+
+    {
+      "name": "98",
+      "image": "images/x21u0o9zqo1_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "99",
+      "image": "images/zg31ruj18ko1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "100",
+      "image": "images/zpGH1qi84nuo1_400.png",
+      "class": "pink;"
+    }
+  ]
+}
+
+
+
+
+
+//////////////////////////////////////////////
+{
+  "title": "images",
+  "source": "images",
+  "images": [
+
+
+    {
+      "name": "1",
+      "image": "assets/1_ulfmejergrenar.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "2",
+      "image": "assets/1%25.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "3",
+      "image": "assets/1qbmvkpo4_1280.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "4",
+      "image": "assets/01rnxp7qo2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "5",
+      "image": "assets/1xqbzx5o1_400.png",
+      "class": "white;"
+    },
+
+
+    {
+      "name": "6",
+      "image": "assets/02-best-artist-designed-swimming-pools-around-the-world.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "7",
+      "image": "assets/2deq0k11rwe56eo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "8",
+      "image": "assets/2fnLeM1qd7huio1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "9",
+      "image": "assets/3b9b3c6a323f_37a2c0b1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "10",
+      "image": "assets/3ed53a0689f61_084e6786_1280.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "11",
+      "image": "assets/4UkZ01rnxp7qo1_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "12",
+      "image": "assets/5%2520%25C2%25A9.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "13",
+      "image": "assets/06-best-artist-designed.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "14",
+      "image": "assets/06ae2e56a14_7cdb5614_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "15",
+      "image": "assets/7b77796d77_1ab0ba5f_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "16",
+      "image": "assets/7zsec1qiaenuo2_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "17",
+      "image": "assets/8a2658f697_fd4b6cfc_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "18",
+      "image": "assets/8dOq1qk10vpo7_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "19",
+      "image": "assets/9-stoned-photo-(.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "20",
+      "image": "assets/9f1_07283544_1280.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "21",
+      "image": "assets/9Nc1uauof6o1_400.png",
+      "class": "green;"
+    },
+    {
+      "name": "22",
+      "image": "assets/9zu1qkj2lmo1_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "23",
+      "image": "assets/11ABhl1v1plcdo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "24",
+      "image": "assets/39a68180402581.5ce021083d092.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "25",
+      "image": "assets/39f20f80402581.5ce3f752d3ac3.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "26",
+      "image": "assets/44c67a5_23c15b0a_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "27",
+      "image": "assets/45e27f80402581.5ce021083d976.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "28",
+      "image": "assets/61vk5gtlo1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "29",
+      "image": "assets/88a7e574048445.5c1f45d4ccfaa.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "30",
+      "image": "assets/440tvlZ1qf8em3o4_r1_640.png",
+      "class": "green pink;"
+    },
+
+    {
+      "name": "31",
+      "image": "assets/9450b_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "32",
+      "image": "assets/89672_e05cad0e_400.png",
+      "class": "black;"
+    },
+
+    {
+      "name": "33",
+      "image": "assets/89672_e05cad0e_401.jpg",
+      "class": "blue;"
+    },
+
+    {
+      "name": "34",
+      "image": "assets/AUXn1u4ekk7o1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "35",
+      "image": "assets/b9f86d80402581.5ce021083c0bf.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "36",
+      "image": "assets/b145fb64765225.5add98ab4a323.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "37",
+      "image": "assets/ba88f3598d_4b6a4fdc_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "38",
+      "image": "assets/bd6eb50fa3a_5484022c_500.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "39",
+      "image": "assets/bLN1sgrduho1_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "40",
+      "image": "assets/BW1v0z1ebo2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "41",
+      "image": "assets/c2e1105f_d4daae2a_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "42",
+      "image": "assets/c301uvwrxxo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "43",
+      "image": "assets/cfa5300_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "44",
+      "image": "assets/d29d9c80402581.5ce26430d0544.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "45",
+      "image": "assets/DB380B14-B7E9-4D97-B0E4-2A1B3555CA0D.png",
+      "class": "black;"
+    },
+
+    {
+      "name": "46",
+      "image": "assets/dbc86c64765225.5add98ab4ac3f.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "47",
+      "image": "assets/Dec-21-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "48",
+      "image": "assets/Dec-27-2019.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "49",
+      "image": "assets/Dec-31-2017.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "50",
+      "image": "assets/dXqrG1wbonm6o1_400.png",
+      "class": "white;"
+    },
+
+
+    {
+      "name": "51",
+      "image": "assets/ece98264765225.5add98ab4a7f9.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "52",
+      "image": "assets/f71cb174048445.5c1f45d54f352.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "53",
+      "image": "assets/FRd41r0r4cdo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "54",
+      "image": "assets/hkEiOO1s7qfzno1_400.png",
+      "class": "red;"
+    },
+
+    {
+      "name": "55",
+      "image": "assets/HXL1v8roxvo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "56",
+      "image": "assets/IMG_4186-30-07-19-07-55.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "57",
+      "image": "assets/IMG_4188-30-07-19-07-55.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "58",
+      "image": "assets/Jan-2-2017.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "59",
+      "image": "assets/Jan-16-2018.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "60",
+      "image": "assets/Jan-20-2020.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "61",
+      "image": "assets/Jul-9-2019.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "62",
+      "image": "assets/Jul-27-2019.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "63",
+      "image": "assets/Jul-28-2017.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "64",
+      "image": "assets/Jun-16-2018.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "65",
+      "image": "assets/Jun-23-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "66",
+      "image": "assets/KFK1rs6cz4o1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "67",
+      "image": "assets/kZ01rnxp7qo5_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "68",
+      "image": "assets/L1qcxyrro1_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "69",
+      "image": "assets/marton-perlaki-11 copy.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "70",
+      "image": "assets/marton-perlaki-11.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "71",
+      "image": "assets/mfdwkr3jG1r4iw2ko1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "72",
+      "image": "assets/nGg11u1qnwto1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "73",
+      "image": "assets/NM11wravvso1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "74",
+      "image": "assets/Oct-12-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "75",
+      "image": "assets/Oct-13-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "76",
+      "image": "assets/ojybwTj1trdvneo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "77",
+      "image": "assets/OQe1sj80hno1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "78",
+      "image": "assets/oZB1wwx4aso1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "79",
+      "image": "assets/q44UkZ01rnxp7qo3_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "80",
+      "image": "assets/qrjec2yK1r4lpbbo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "81",
+      "image": "assets/qxE1rwwp0eo1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "82",
+      "image": "assets/R1w6g6mlo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "83",
+      "image": "assets/reminR1r7ny87o1_400.png",
+      "class": "yellow;"
+    },
+
+    {
+      "name": "84",
+      "image": "assets/rUv31qgiw5to1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "85",
+      "image": "assets/s7zsec1qiaenuo1_1280.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "86",
+      "image": "assets/s891vxv1qztxibo1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "87",
+      "image": "assets/Sep-26-2019.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "88",
+      "image": "assets/sf0xh9o1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "89",
+      "image": "assets/tHtb1r630xzo1_400.png",
+      "class": "white;"
+    },
+
+    {
+      "name": "90",
+      "image": "assets/toqOv7o1rpoad5o1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "91",
+      "image": "assets/tvlZ1qf8em3o3_r1_640.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "92",
+      "image": "assets/U1svp654o7_1280.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "93",
+      "image": "assets/va6WXd1qzt1t3o2_1280.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "94",
+      "image": "assets/virgin-islands-201405-2_1000-watermarked.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "95",
+      "image": "assets/W1qzxhoso1_640.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "96",
+      "image": "assets/WN1qaf9imo1_400.png",
+      "class": "blue;"
+    },
+
+    {
+      "name": "97",
+      "image": "assets/X1vnoon8o1_400.png",
+      "class": "green pink;"
+    },
+
+    {
+      "name": "98",
+      "image": "assets/x21u0o9zqo1_400.png",
+      "class": "green;"
+    },
+
+    {
+      "name": "99",
+      "image": "assets/zg31ruj18ko1_400.png",
+      "class": "pink;"
+    },
+
+    {
+      "name": "100",
+      "image": "assets/zpGH1qi84nuo1_400.png",
+      "class": "pink;"
+    }
+  ]
+}
